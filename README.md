@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hank @tw1720
 - 👀 I’m interested in coding,
-- 🌱 I’m currently learning PHP,WEB Design,
-- 📫 How to reach me ? E-mail:tw1720@gmail.com
+- 🌱 I’m currently learning VUE, PHP, C#.NET, WEB Design,
+- 📫 How to reach me ? E-mail: tw1720@gmail.com

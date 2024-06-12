@@ -6,7 +6,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tw1720&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Hank, I’m interested in coding,
-- 🌱 I’m currently learning VUE, PHP, Java, C#.NET, WEB Design,
+- 🌱 I’m currently learning JS/Node, VUE, PHP, WEB Design,
 - 📫 How to reach me ? E-mail: [ooxx@mail.ee](mailto:ooxx@mail.ee)
 - ✒️ Works Collections - [https://ooxx.viz.tw](https://ooxx.viz.tw)
 - 🏰 My Blog - [https://tw-free.pages.dev](https://tw-free.pages.dev)

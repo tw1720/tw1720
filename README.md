@@ -13,7 +13,9 @@
 
 ------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tw1720&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=tw1720&theme=onedark&no-bg=true&row=1" />
+</p>
 
 <p align="center">
   <a href="https://github.com/tw1720">

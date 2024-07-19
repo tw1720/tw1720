@@ -1,15 +1,13 @@
 <!--
-## Hank's Github Page
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&random=false&width=435&lines=%E2%9C%A8+Hello%2C+It's+Hank's+Github+Page)](https://git.io/typing-svg)
-<!--
-<br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tw1720&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&random=false&width=435&lines=%E2%9C%A8+Hello%2C+It's+Hank's+Github+Page)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Hank, interested in coding, and keep learning.
-- 💖 Interest WEB design, development, that's really fun.
+- 💖 I like WEB design, development, that's really fun.
 - 😎 My Blog - [https://free.is-cool.dev](https://free.is-cool.dev)
+- 📧 Reach me: [api@mail.ee](mailto:api@mail.ee)
 
 ---
 
